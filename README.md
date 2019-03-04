@@ -1,11 +1,11 @@
 # Django
-  run server<p>
+  run server<br>
   $python manage.py runserver 
-  
-  migrate the database<p>
+  <p>
+  migrate the database<br>
   $python manage.py makemigration "AppName"
-  
-  create root user<p>
+  <p>
+  create root user<br>
   $python manage.py createsuperuser
   
   

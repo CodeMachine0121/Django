@@ -1,5 +1,5 @@
 # Django
-  run server
+  run server<br>
   $python manage.py runserver 
   
   migrate the database
